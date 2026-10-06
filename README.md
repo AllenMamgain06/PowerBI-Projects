@@ -12,13 +12,13 @@ Gym aur fitness businesses ke liye member engagement, workout consistency aur he
 ### 📸 Dashboard Visuals
 
 #### 1. Home Navigation View
-![Home View](Home.jpeg)
+![Home View](home.jpeg)
 
 #### 2. Overview Dashboard
-![Overview](Overview.jpeg)
+![Overview](overview.jpeg)
 
 #### 3. Health & Fitness Metrics Calculator
-![Calculator](Calculator.jpeg)
+![Calculator](calculator.jpeg)
 
 ### ⚙️ What Was Done (Methodology & Implementation)
 - **Data Transformation (Power Query):**
@@ -42,10 +42,10 @@ Ridesharing operations mein driver efficiency, booking cancellations, customer d
 ### 📸 Dashboard Visuals
 
 #### 1. Uber Home Screen
-![Uber Home](Uber%20Home.jpeg)
+![Uber Home](uber%20home.jpeg)
 
 #### 2. Operational Overview & Revenue Analysis
-![Uber Overview](Uber%20Overview.jpeg)
+![Uber Overview](uber%20overview.jpeg)
 
 ### ⚙️ What Was Done (Methodology & Implementation)
 - **Data Preprocessing & Cleaning:**
